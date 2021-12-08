@@ -653,6 +653,7 @@ yejashi
 - [Leevi Holmström](https://github.com/EnlightedNot)
 - [Tadas Maslauskas](https://github.com/maslauskas)
 - [Aaren Ajai Mathew](https://github.com/A3lli0t)
+- [Azzy](https://github.com/azzydoesgit)
 - [Rahul Mokaria](https://github.com/rahulmokaria)
 - [Frail Bongat](https://github.com/frailbongat)
 - [Kinglucifer300](https://github.com/Kinglucifer300)
